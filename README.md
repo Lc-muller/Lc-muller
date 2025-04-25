@@ -6,7 +6,7 @@
 Atualmente, trabalho como **Técnico de piscina**. Me formei em 2017 em **ADS**, mas continuei como piscineiro. Meu plano é **sofrer na área de tecnologia**.
 
 Desenvolvedor na luta.  
-Estudo **React** e **React Native** full-time há uns 3 meses, depois de me formar em 2016 (em outra área, claro).
+Estudo **React** e **React Native** full-time há uns 3 meses.
 
 Já enfrentei **Tailwind CSS**, **TypeScript** (aquele que erra e ainda te culpa), e o próximo desafio será **backend** com **Java**. Já dei uma olhada, já!  
 Comecei criando telas, agora quero criar o sistema inteiro — do clique até o banco de dados, fazendo tudo funcionar direitinho. 🚀
