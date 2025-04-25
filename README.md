@@ -10,7 +10,7 @@ Estudo **React** e **React Native** full-time há uns 3 meses, depois de ter me 
 Já sofri **Tailwind CSS**, **TypeScript** (aquele que erra e ainda te culpa), e o proximo a me aventurar é no **backend****Java**. já olhei viu  
 Comecei criando tela, agora quero criar o sistema inteiro, desde o clique até o banco de dados, fazendo tudo funcionar direitinho. 🚀
 
-Sempre em constante evolução, aprimorando minhas habilidades em **Java** Tecnologia. Se tem algo que aprendi, é que sempre tem algo novo pra aprender! 👨‍💻
+Sempre em constante evolução, aprimorando minhas habilidades em Tecnologia. Se tem algo que aprendi, é que sempre tem algo novo pra aprender! 👨‍💻
 
 ---
 
