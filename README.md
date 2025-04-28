@@ -3,7 +3,7 @@
 ## Sobre mim
 **Prazer, sou Luis/Müller**
 
-Atualmente, trabalho como **Técnico de piscina**. Me formei em 2017 em **ADS**, mas continuei como piscineiro. Meu plano é **sofrer na área de tecnologia**.
+Atualmente, trabalho como **Técnico de piscina**. Me formei em 2017 em **ADS**, mas continuei como piscineiro, mas sempre estudando algo ou tentando. Meu plano é **sofrer na área de tecnologia**.
 
 Desenvolvedor na luta.  
 Estudo **React** e **React Native** full-time há uns 3 meses.
@@ -22,14 +22,16 @@ Sempre em constante evolução, aprimorando minhas habilidades em Tecnologia. Se
 - Estudando **Capacitor** para facilitar a criação de APKs e não morrer na hora da build 🛠️
 - **Express**
 - **Node.js**
+- **Tailwind Css**
+- **TypeScript**
 
 ---
 
 ## Realidades
-
+- por enquanto vou de Front
 - Fico puto com projeto, commito tudo pronto às 4 da manhã como se nada tivesse acontecido  
-- Não uso dark mode na IDE — **tema branco mesmo**  (não sei usar tema dark, minha vista não aceita)  
-> Porque se o bug não desaparecer, pelo menos ele vai cansar de me olhar no fundo dos olhos 👀
+- Não uso dark mode na IDE — **tema branco mesmo**  "Não sei usar tema escuro, minha vista não se adapta. Talvez seja só falta de costume."
+> IDE branca mesmo, Porque se o bug não desaparecer, pelo menos ele vai cansar de me olhar no fundo dos olhos 👀
 
 ---
 
